@@ -407,7 +407,7 @@ MIT License
 
 # 👨‍💻 Author
 
-### Developed by SHUSHANT KUMAR MAURYA 
+### Developed by SUSHANT KUMAR MAURYA 
 
 
 
